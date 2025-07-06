@@ -20,8 +20,8 @@ This project is a demo React application built with TypeScript that fetches vide
 
 1. **Clone the repo**  
    ```bash
- git clone https://github.com/githubcommand/youtube_react.git
-   cd youtube_react
+[   git clone https://github.com/your-username/your-project-name.git](https://github.com/githubcommand/youtube_react.git)
+   cd your-project-name
 
 
    - Install dependencies
